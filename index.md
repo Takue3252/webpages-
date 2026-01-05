@@ -1,6 +1,2 @@
----
-layout: page
-title: About
----
-
-This is the About page.
+## Presentation
+[View my Reveal.js presentation](presentation.html)
