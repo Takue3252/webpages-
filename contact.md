@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: fire
+title: yes
 ---
 
 This is the About page.
